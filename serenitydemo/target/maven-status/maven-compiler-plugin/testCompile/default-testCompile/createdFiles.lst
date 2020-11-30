@@ -1,0 +1,3 @@
+net\serenity\demo\steps\dvsum\EditViewSteps.class
+net\serenity\demo\acceptancetests\AcceptanceTestSuite.class
+net\serenity\demo\steps\MathsStepDefinitions.class
