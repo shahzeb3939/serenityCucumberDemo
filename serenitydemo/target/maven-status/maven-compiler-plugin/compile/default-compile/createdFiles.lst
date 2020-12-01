@@ -1,1 +1,5 @@
+net\serenity\dvsum\steps\Start.class
+net\serenity\dvsum\steps\DvSumLogin.class
+net\serenity\dvsum\steps\EditView.class
 net\serenity\demo\app\Calculator.class
+net\serenity\dvsum\steps\Login.class
