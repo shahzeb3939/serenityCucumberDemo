@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.actions.Open;
 
 public class Start {
 
-    public static Performable withLoginPage(){
+    public static Performable onLoginPage(){
         return Task.where("{0} is on login page", Open.browserOn().thePageNamed("home.page"));
     }
 

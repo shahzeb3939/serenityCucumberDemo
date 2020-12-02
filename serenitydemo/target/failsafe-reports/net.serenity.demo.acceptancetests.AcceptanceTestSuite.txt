@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: net.serenity.demo.acceptancetests.AcceptanceTestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.129 s - in net.serenity.demo.acceptancetests.AcceptanceTestSuite
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.428 s - in net.serenity.demo.acceptancetests.AcceptanceTestSuite

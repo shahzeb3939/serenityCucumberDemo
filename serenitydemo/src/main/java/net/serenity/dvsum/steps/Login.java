@@ -5,6 +5,6 @@ import net.serenitybdd.screenplay.Task;
 
 public class Login {
     public static Performable withValidCredentials() {
-        return Task.where("{0} enters valid credentials", DvSumLogin.enterCredentials());
+        return Task.where("{0} enters valid credentials", Start.onLoginPage(), DvSumLogin.enterCredentials());
     }
 }

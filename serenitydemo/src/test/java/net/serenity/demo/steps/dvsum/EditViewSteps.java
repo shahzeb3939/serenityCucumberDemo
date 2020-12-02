@@ -37,7 +37,7 @@ public class EditViewSteps {
 
     @When("User edits a view")
     public void whenMethodForEditViewStep(){
-//        when(checo).attemptsTo(EditView.named("testView"));
+        when(checo).attemptsTo(EditView.named("testView"));
     }
 
     @Then("View should be updated with edited details")
